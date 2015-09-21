@@ -16,7 +16,7 @@ public class ChrisINF2015 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        // ceci est un   commentaire
+        // ceci est un     commentaire
     }
     
 }
